@@ -14,8 +14,8 @@ if __name__ == "__main__":
 
     for x in range(len(myNeighborhood.houses)):
         myNeighborhood.printInfo(x)
+
     
-    print("hi")
     testHouseRandom =Household("random")
     testHouseRandom.makeElappliances(5)
 
